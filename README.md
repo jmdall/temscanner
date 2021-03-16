@@ -11,3 +11,10 @@ https://play.google.com/store/apps/details?id=fr.styledevie.twa
 
 Once logged in in the android app, you can support us and get unlimited tems for ~ 1 coffee. You cannot support us in Tems Scanner.
 Why ? Mainly because the scanner use an OCR tool which has a cost (hosting too).
+
+Supported resolutions :
+1024x768
+1280x768
+1280x720
+1280x1024
+1920x1200
