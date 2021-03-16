@@ -1,4 +1,4 @@
-# temscanner
+# Tem Scanner
 
 TemScanner is a tool to scan your in game temtem using OCR and list them in the android application Temtem Companon :
 https://play.google.com/store/apps/details?id=fr.styledevie.twa
